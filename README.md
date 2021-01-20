@@ -1,2 +1,4 @@
 # MakingNewBranch
-learn
+learn 
+This is my first comment in git
+
